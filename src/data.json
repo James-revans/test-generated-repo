@@ -1,0 +1,55 @@
+{
+	"logo": "/favicon.png",
+	"header": {
+		"links": [
+			{
+				"text": "Home",
+				"link": "/"
+			},
+			{
+				"text": "About",
+				"link": "/about"
+			},
+			{
+				"text": "Services",
+				"link": "/services"
+			}
+		]
+	},
+	"banner": {
+		"text": "Find Your Passion",
+		"buttonText": "Learn More"
+	},
+	"sideCard": [
+		{
+			"img": "/skis.jpeg",
+			"title": "Skis",
+			"text": "Northwest ski offers top of the line skis at affordable prices. "
+		},
+		{
+			"img": "/snowboard.jpeg",
+			"title": "Snowboards",
+			"text": "Northwest ski offers top of the line snowboards at affordable prices. "
+		},
+		{
+			"img": "/boots.jpeg",
+			"title": "Boots",
+			"text": "Northwest ski offers top of the line boots at affordable prices. "
+		}
+	],
+	"bannerSecondary": {
+		"img": "/rentals.png",
+		"link": "/rentals",
+		"text": "Rentals"
+	},
+    "footer": {
+        "hours": [
+            "Weekdays 9am - 7pm",
+            "Saturday 10am - 7pm",
+            "Sunday 10am - 6pm"
+        ],
+        "phone": "(555)-555-5555",
+        "mapImg": "/mapImg.png",
+        "mapLink": "https://www.google.com/maps/dir//New+York,+NY/@40.6976637,-74.1197644,11z/data=!4m9!4m8!1m0!1m5!1m1!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!2m2!1d-74.0059728!2d40.7127753!3e0?hl=en"
+    }
+}
